@@ -1,0 +1,35 @@
+h1 {
+    font-size: 24px;
+    font-family: "Times New Roman", sans-serif;
+    font-weight: bold;
+    background-color: brown;
+}
+
+a {
+    background-color: black;
+    color: white;
+}
+
+h2 {
+    color: antiquewhite;
+    background-color: black;
+    font-family: "Times New Roman", sans-serif;
+}
+
+* {
+    background-color: antiquewhite;
+}
+
+
+p {
+    background-color: burlywood;
+    font-family: "Times New Roman", sans-serif;
+}
+
+ul {
+    background-color: aqua;
+}
+
+ol {
+    background-color: aquamarine;
+}
